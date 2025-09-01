@@ -1,0 +1,23 @@
+{
+  "id": "4542961",
+  "name": "icon for wenwu feiyi",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6319122",
+      "name": "文物古迹",
+      "font_class": "wenwuguji",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "9014345",
+      "name": "非遗荟萃-01",
+      "font_class": "feiyihuicui-",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    }
+  ]
+}

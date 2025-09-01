@@ -1,0 +1,86 @@
+{
+  "id": "4456900",
+  "name": "xiaomi",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17619131",
+      "name": "向右",
+      "font_class": "tubiaozhizuomoban-09",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "577402",
+      "name": "向右1",
+      "font_class": "xiangyou1",
+      "unicode": "e775",
+      "unicode_decimal": 59253
+    },
+    {
+      "icon_id": "658035",
+      "name": "钱",
+      "font_class": "qian",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "825985",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "1314337",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "6367275",
+      "name": "F",
+      "font_class": "F",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "7596923",
+      "name": "24gl-clockCircle",
+      "font_class": "24gl-clockCircle",
+      "unicode": "eb3f",
+      "unicode_decimal": 60223
+    },
+    {
+      "icon_id": "9550260",
+      "name": "充值",
+      "font_class": "chongzhi",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "11882936",
+      "name": "bg-right",
+      "font_class": "bg-right",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "22630286",
+      "name": "团购",
+      "font_class": "tuangou",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "26329155",
+      "name": "手机卡",
+      "font_class": "shoujika",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    }
+  ]
+}
